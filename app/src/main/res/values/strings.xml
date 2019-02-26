@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Vehicle Management</string>
+    <string name="app_name">Quản lý xe</string>
 
     <string name="edt_username">Tên tài khoản</string>
     <string name="edt_pwd">Mật khẩu</string>
